@@ -1,0 +1,25 @@
+/* Bouton Ajouter (Bleu) */
+.add-button {
+    background-color: #1a96f5;
+    color: #fff;
+}
+
+/* Bouton Modifier (Vert) */
+.edit-button {
+    background-color: #7db47e;
+    color: #fff;
+}
+
+/* Bouton Supprimer (Rouge) */
+.delete-button {
+    background-color: #e67676;
+    color: #fff;
+}
+body {
+    background-color: #7496b1;
+    text-align: center;
+    
+}
+h1 {
+    color: #fff;
+}
